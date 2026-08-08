@@ -1,20 +1,20 @@
 <!--
-### Hi there, I'm Rickssie G. Hubahib 👋
+### Hi there, I'm Rickssie G. Hubahib 
 -->
 
-# 👋 Hi, I'm Rickssie G. Hubahib
+#  Hi, I'm Rickssie G. Hubahib
 
-🎓 IT Student | 🔧 Computer Systems Servicing NCII | 🎨 Creative Tech Enthusiast
+ IT Student | 🔧 Computer Systems Servicing NCII | Creative Tech Enthusiast
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm an IT student who's deeply passionate about technology — from coding and system servicing to creative design. I hold a Computer Systems Servicing NCII certification and have hands-on experience in video editing, graphics design, and hardware-software troubleshooting. I love learning new tools and applying them to build practical, impactful solutions. Whether it's writing code, fixing systems, or designing visuals, I always aim to deliver quality work with a creative touch.
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 - Become a skilled **System Administrator**
 - Deepen my expertise in **System Servicing** and **IT Support**
@@ -24,7 +24,7 @@ I'm an IT student who's deeply passionate about technology — from coding and s
 
 ---
 
-## 🛠️ Current Skills
+##  Current Skills
 
 | Category | Skills |
 |----------|--------|
@@ -37,7 +37,7 @@ I'm an IT student who's deeply passionate about technology — from coding and s
 
 ---
 
-## 📚 Technologies I Want to Learn
+## Technologies I Want to Learn
 
 - 🐧 Linux System Administration
 - 🖥️ Windows Server Administration
@@ -49,7 +49,7 @@ I'm an IT student who's deeply passionate about technology — from coding and s
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Certification | Issuing Organization |
 |---------------|----------------------|
@@ -61,7 +61,7 @@ I'm an IT student who's deeply passionate about technology — from coding and s
 
 ---
 
-## 📁 Academic Projects
+## Academic Projects
 
 > *Project details will be added throughout the semester as I complete activities in ITEP 414 - System Administration and Maintenance.*
 
@@ -69,10 +69,9 @@ I'm an IT student who's deeply passionate about technology — from coding and s
 
 ## 📫 Contact Information
 
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** (Optional - add your email if comfortable)
-
+- **GitHub:** https://github.com/yourusername](https://github.com/Siex1
+- **LinkedIn:** https://linkedin.com/in/comming-soon
+- **Email:** hubahib.rickssie15@gmail.com
 ---
 
 > 💡 *"Always learning, always building."*
